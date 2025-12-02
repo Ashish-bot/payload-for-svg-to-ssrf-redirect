@@ -1,0 +1,1 @@
+# payload-for-svg-to-ssrf-redirect
